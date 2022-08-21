@@ -1,0 +1,23 @@
+/* *{
+    margin:0;
+} */
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 30vh;
+  }
+  .content-wrap {
+    flex: 1;
+  }
+ .containercontact{
+    margin-left: 1rem;
+
+  }
+  .bi-mailbox pe-2{
+    margin-top: 1rem;
+  }
+  .copyright{
+    margin-left:1rem;
+    text-align: center;
+    color:black;
+  }

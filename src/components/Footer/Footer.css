@@ -1,0 +1,15 @@
+
+  #contactme{
+    color: white;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(35, 35, 35);
+    
+
+  }
+  hr.foothr{
+    position:relative;
+    background:black;
+  }
